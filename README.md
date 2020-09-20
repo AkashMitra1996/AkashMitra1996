@@ -1,5 +1,10 @@
 ## Hi there 👋
-I am currently learning best practices for ML
+[LinkedIn](https://www.linkedin.com/in/akash-mitra-063859134/)
+
+**My name is Akash Mitra. My min intrest lies in Machine Learning and Deep Learning. I also ave basic knowedge of Power Bi.**
+* I am currently working on ML projects.
+* I am looking to collab on any Machine Learning or deep learning projects
+
 
 <!--
 **AkashMitra1996/AkashMitra1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
